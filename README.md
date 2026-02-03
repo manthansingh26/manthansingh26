@@ -1,16 +1,29 @@
-## Hi there 👋
+[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
+<h1 align="center">Hey 👋, I'm MANTHAN RAJPUROHIT</h1>
 
-<!--
-**manthansingh26/manthansingh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">🎯 Ambition: Become a Fullstack Developer with AI skills</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- ✨ Creating bugs since **July 2025**
+
+---
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/manthan-shravansingh-rajpurohit/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.instagram.com/itz_manthan026/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:manthansingh2601@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
