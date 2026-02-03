@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
+[![Hits](https://hits.sh/github.com/manthansingh26.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/manthansingh26/)
 <h1 align="center">Hey 👋, I'm MANTHAN RAJPUROHIT</h1>
 
 
