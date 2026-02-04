@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- ✨ Creating bugs since **July 2025**
+- ✨ Creating bugs since **Dec 2025**
 
 ---
 
