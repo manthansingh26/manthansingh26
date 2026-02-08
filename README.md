@@ -12,6 +12,22 @@
 
 ---
 
+<div align="center">
+  
+  <h2 align="center">🏆 GitHub Achievement Showcase</h2>
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manthansingh26&theme=react&border_radius=10" />
+
+---
+  
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=manthansingh26&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+
+</div>
+
+---
+
 <h2 align="left">🌐 Connect with Me</h2>
 
 <div align="center">
