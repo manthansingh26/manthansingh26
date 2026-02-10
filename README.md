@@ -1,24 +1,5 @@
-Here's the complete code to paste directly into your GitHub profile README:
 
-```markdown
-[![Hits](https://hits.sh/github.com/manthansingh26.svg?style=for-the-badge&label=Profile%20Views&color=7E3ACE&labelColor=1A1B27)](https://hits.sh/github.com/manthansingh26/)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+MANTHAN;Computer+Engineering+Student;AI%2FML+Aspirant;Full-Stack+Developer" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manthansingh26&label=Profile%20Views&color=7E3ACE&style=flat" alt="Profile Views" />
-  <a href="https://github.com/manthansingh26?tab=followers">
-    <img src="https://img.shields.io/github/followers/manthansingh26?color=7E3ACE&label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20World&fontSize=40&fontAlignY=65&animation=fadeIn" />
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -60,16 +41,12 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 <div align="center">
   
-  ### 🏆 GitHub Trophy
-  <img src="https://github-profile-trophy.vercel.app/?username=manthansingh26&theme=onedark&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  
+ 
   ### 📈 Activity & Streaks
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manthansingh26&theme=react&border_radius=10&ring=7E3ACE&fire=FF6B6B&currStreakLabel=7E3ACE" />
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=manthansingh26&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=7E3ACE&icon_color=FFD700&text_color=FFFFFF&bg_color=1A1B27" />
   
-  ### 🗂️ Most Used Languages
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manthansingh26&layout=compact&theme=react&border_radius=10&title_color=7E3ACE&bg_color=1A1B27" />
-  
+ 
   ### 🎯 Contribution Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansingh26&theme=react-dark&bg_color=1A1B27&color=7E3ACE&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
 
@@ -81,7 +58,7 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 <div align="center">
   
-  ### 💻 Programming Languages
+  ### 💻 Programming Languages Learning
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -130,27 +107,8 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 ---
 
-## 🎮 Fun Facts
 
-<div align="center">
-  
-  ```javascript
-  const manthan = {
-    passion: "Transforming ideas into intelligent solutions",
-    dailyRoutine: ["Code", "Learn AI/ML", "Build Projects", "Repeat"],
-    quote: "The best way to predict the future is to create it.",
-    goals: [
-      "Master Deep Learning",
-      "Build AI-powered applications",
-      "Contribute to open source AI projects",
-      "Mentor aspiring developers"
-    ]
-  };
-  ```
 
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -201,30 +159,4 @@ Experience: "Creating innovative solutions since Dec 2025"
 </div>
 ```
 
-## 🎯 Instructions:
 
-1. **Copy** the entire code above
-2. Go to your GitHub profile
-3. Create or edit your `README.md` file in your `manthansingh26/manthansingh26` repository
-4. **Paste** this code (replace any existing content)
-5. **Commit** the changes
-6. Wait a few minutes for GitHub to update
-
-## ✨ Special Features Included:
-
-- **Dynamic typing animations** in header and footer
-- **Snake animation** that eats your contributions
-- **Automatic stats** that update with your activity
-- **GitHub contribution graph**
-- **Profile trophy showcase**
-- **Beautiful color scheme** (purple theme)
-- **Responsive design** for all devices
-
-Your profile will now automatically display:
-- Your current streaks and stats
-- Most used programming languages
-- Contribution graph
-- GitHub trophies
-- And all the details you wanted about being a Computer Engineering student aiming to become an AI/ML Engineer!
-
-The profile will look professional, modern, and visually appealing to anyone who visits your GitHub page!
