@@ -152,9 +152,7 @@ Experience: "Creating innovative solutions since Dec 2025"
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&height=20&lines=Always+learning%2C+Always+growing+%E2%9C%A8;From+Computer+Engineering+to+AI%2FML+Excellence+%F0%9F%92%A1" alt="Footer Typing" />
   
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/manthansingh26/manthansingh26/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </p>
+ 
   
 </div>
 ```
