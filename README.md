@@ -1,9 +1,8 @@
 
-
-
+```
 ## 🚀 About Me
 
-```yaml
+
 Name: "Manthan Shravansingh Rajpurohit"
 From: "India"
 Education: "Computer Engineering Student"
@@ -41,15 +40,10 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 <div align="center">
   
- 
   ### 📈 Activity & Streaks
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=manthansingh26&theme=react&border_radius=10&ring=7E3ACE&fire=FF6B6B&currStreakLabel=7E3ACE" />
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=manthansingh26&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=7E3ACE&icon_color=FFD700&text_color=FFFFFF&bg_color=1A1B27" />
   
- 
-  ### 🎯 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansingh26&theme=react-dark&bg_color=1A1B27&color=7E3ACE&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
-
 </div>
 
 ---
@@ -131,16 +125,7 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 ---
 
-## 📌 Recent Activities
 
-<div align="center">
-  
-  <!-- GitHub Readme Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansingh26&theme=github-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=Manthan's%20Contribution%20Graph&color=7e3ace&line=ff6b6b&point=ffffff" width="100%" />
-  
-</div>
-
----
 
 <div align="center">
   
@@ -156,5 +141,4 @@ Experience: "Creating innovative solutions since Dec 2025"
   
 </div>
 ```
-
 
