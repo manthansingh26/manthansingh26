@@ -1,5 +1,4 @@
 
-```
 ## 🚀 About Me
 
 
@@ -11,7 +10,7 @@ Currently Learning: "Machine Learning, Neural Networks, React, Node.js"
 Interests: "AI Research, Web Development, Open Source, Problem Solving"
 Motto: "Code today for a smarter tomorrow"
 Experience: "Creating innovative solutions since Dec 2025"
-```
+
 
 ---
 
