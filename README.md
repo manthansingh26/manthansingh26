@@ -81,27 +81,8 @@ Experience: "Creating innovative solutions since Dec 2025"
 
 </div>
 
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-  
-  | Metric | Current Status |
-  |--------|----------------|
-  | **Total Stars** | 2 ⭐ |
-  | **Total Commits (2026)** | 18 📝 |
-  | **Total PRs** | 4 🔀 |
-  | **Total Issues** | 0 🐛 |
-  | **Contributed to** | 1 🏆 |
-  | **Current Streak** | Feb 2 - Feb 9 🔥 |
-  | **Longest Streak** | Feb 2 - Feb 9 🏅 |
-
-</div>
 
 ---
-
-
 
 
 ## 🌐 Connect With Me
