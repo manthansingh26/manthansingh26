@@ -1,5 +1,5 @@
 [![Hits](https://hits.sh/github.com/manthansingh26.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/manthansingh26/)
-## 🚀 About Me
+##  About Me
 
 ```
 Name: "Manthan Shravansingh Rajpurohit"
