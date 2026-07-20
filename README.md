@@ -92,9 +92,8 @@ College tech community focused on hackathons, development, and peer learning.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manthansingh26&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansingh26&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 ### 📄 Resume
