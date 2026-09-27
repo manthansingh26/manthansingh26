@@ -98,12 +98,16 @@ Computer Engineering undergraduate specializing in **Full-Stack Backend Microser
 ## 📈 GitHub Engineering Activity & Language Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manthansingh26&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansingh26&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthansingh26&theme=dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansingh26&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthansingh26&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manthansingh26&theme=dark" alt="Most Committed Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansingh26&theme=dark" alt="Contribution Streak" />
 </p>
 
 ---
