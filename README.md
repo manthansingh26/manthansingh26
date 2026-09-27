@@ -95,16 +95,15 @@ Computer Engineering undergraduate specializing in **Full-Stack Backend Microser
 
 ---
 
-## 📈 GitHub Engineering Activity & Language Metrics
+## 📈 GitHub Engineering Activity & Metrics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthansingh26&theme=tokyonight" alt="GitHub Profile Details" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manthansingh26&theme=tokyonight" alt="Contribution Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthansingh26&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthansingh26&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manthansingh26&theme=tokyonight" alt="Most Committed Languages" />
+  <img width="98.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manthansingh26&theme=tokyonight" alt="Contribution Streak" />
 </p>
 
 ---
