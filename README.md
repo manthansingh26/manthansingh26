@@ -74,10 +74,10 @@
 
 ---
 
-### 🌐 Open Source
+### 🌐 Open Source & Contributions
 
-- **20+ merged pull requests** in Adventurers-Guild
-- Merged contributions in FitMart
+- **FitMart OSS** — Merged PR #436 for Zod runtime schema validation & Jest unit test suites
+- **Adventurers-Guild** — Open-source contributor for full-stack developer platform
 - Active contributor to AI and developer tool projects
 
 ---
