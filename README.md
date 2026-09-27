@@ -98,16 +98,13 @@ Computer Engineering undergraduate specializing in **Full-Stack Backend Microser
 ## 📈 GitHub Engineering Activity & Language Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthansingh26&theme=dark" alt="GitHub Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthansingh26&theme=tokyonight" alt="GitHub Profile Details" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manthansingh26&theme=tokyonight" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthansingh26&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manthansingh26&theme=dark" alt="Most Committed Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansingh26&theme=dark" alt="Contribution Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthansingh26&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manthansingh26&theme=tokyonight" alt="Most Committed Languages" />
 </p>
 
 ---
