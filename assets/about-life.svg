@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="about">
+  <style>
+    text{paint-order:stroke}
+    @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+  </style>
+  <defs>
+    <pattern id="about-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <linearGradient id="about-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#070b16"/>
+    </linearGradient>
+    <linearGradient id="about-hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#247bff">
+        <animate attributeName="stop-color" values="#247bff;#7a5cff;#247bff" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#7a5cff">
+        <animate attributeName="stop-color" values="#7a5cff;#ff354f;#7a5cff" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#ff354f">
+        <animate attributeName="stop-color" values="#ff354f;#247bff;#ff354f" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#about-bg)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#about-dots)"/>
+  <ellipse cx="144.0" cy="41.6" rx="260" ry="150" fill="#247bff" opacity="0.10"/>
+  <ellipse cx="1104.0" cy="494.0" rx="300" ry="170" fill="#ff354f" opacity="0.08"/>
+  <rect x="2" y="2" width="1196" height="516" rx="26" fill="none" stroke="url(#about-hair)" stroke-width="2.5" opacity="0.85"/>
+  <text x="70" y="110" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="900" fill="#f2f5fa" letter-spacing="3">WHAT I DO</text>
+  <text x="660" y="110" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="900" fill="#f2f5fa" letter-spacing="3">BEYOND THE CODE</text>
+  <rect x="70" y="128" width="90" height="5" rx="2.5" fill="#247bff"/>
+  <rect x="660" y="128" width="90" height="5" rx="2.5" fill="#ff354f"/>
+  <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.7s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="0.3s" dur="0.7s" fill="freeze"/>
+        <rect x="70" y="138" width="470" height="88" rx="18" fill="#ffffff" opacity="0.04"/>
+        <rect x="70" y="138" width="470" height="88" rx="18" fill="none" stroke="#247bff" stroke-width="1.5" opacity="0.5"/>
+        <circle cx="112" cy="182" r="14" fill="#247bff" opacity="0.25"/>
+        <circle cx="112" cy="182" r="6" fill="#247bff"/>
+        <text x="142" y="176" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#f2f5fa">Agentic AI systems</text>
+        <text x="142" y="206" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#8b93a7">LangGraph agents that do real work</text>
+      </g><g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.7s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="0.55s" dur="0.7s" fill="freeze"/>
+        <rect x="70" y="243" width="470" height="88" rx="18" fill="#ffffff" opacity="0.04"/>
+        <rect x="70" y="243" width="470" height="88" rx="18" fill="none" stroke="#ff354f" stroke-width="1.5" opacity="0.5"/>
+        <circle cx="112" cy="287" r="14" fill="#ff354f" opacity="0.25"/>
+        <circle cx="112" cy="287" r="6" fill="#ff354f"/>
+        <text x="142" y="281" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#f2f5fa">Full-stack backends</text>
+        <text x="142" y="311" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#8b93a7">FastAPI + PostgreSQL microservices</text>
+      </g><g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.7s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="0.8s" dur="0.7s" fill="freeze"/>
+        <rect x="70" y="348" width="470" height="88" rx="18" fill="#ffffff" opacity="0.04"/>
+        <rect x="70" y="348" width="470" height="88" rx="18" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0.5"/>
+        <circle cx="112" cy="392" r="14" fill="#ffd166" opacity="0.25"/>
+        <circle cx="112" cy="392" r="6" fill="#ffd166"/>
+        <text x="142" y="386" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#f2f5fa">Open source</text>
+        <text x="142" y="416" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="20" fill="#8b93a7">Merged PRs, not just forks</text>
+      </g>
+  <line x1="600" y1="70" x2="600" y2="450" stroke="#ffffff" opacity="0.08" stroke-width="2"/>
+  <g opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.333;1" dur="12s" repeatCount="indefinite"/>
+        <text x="660" y="200" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace" font-size="22" fill="#247bff" letter-spacing="4">ANIME MODE</text>
+        <text x="660" y="250" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f5fa">Zoro mindset:</text>
+        <text x="660" y="304" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#8b93a7">Grind in silence. — Zoro</text>
+      </g><g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.363;0.633;0.666;1" dur="12s" repeatCount="indefinite"/>
+        <text x="660" y="200" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace" font-size="22" fill="#ff354f" letter-spacing="4">OPEN SOURCE</text>
+        <text x="660" y="250" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f5fa">Building in public,</text><text x="660" y="296" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f5fa">one PR at a time.</text>
+        <text x="660" y="350" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#8b93a7">Proof over promises.</text>
+      </g><g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.696;0.966;1" dur="12s" repeatCount="indefinite"/>
+        <text x="660" y="200" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace" font-size="22" fill="#ffd166" letter-spacing="4">HACKATHONS</text>
+        <text x="660" y="250" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#f2f5fa">Shipping under pressure.</text>
+        <text x="660" y="304" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="24" fill="#8b93a7">Finalist tables, not tags.</text>
+      </g>
+  <rect x="660" y="392" width="140" height="8" rx="4" fill="#ffffff" opacity="0.10"/>
+      <rect x="660" y="392" width="0" height="8" rx="4" fill="#247bff">
+        <animate attributeName="width" values="0;140;140;0" keyTimes="0;0.30;0.333;1" dur="12s" repeatCount="indefinite"/>
+      </rect><rect x="820" y="392" width="140" height="8" rx="4" fill="#ffffff" opacity="0.10"/>
+      <rect x="820" y="392" width="0" height="8" rx="4" fill="#ff354f">
+        <animate attributeName="width" values="0;0;140;140;0" keyTimes="0;0.333;0.633;0.666;1" dur="12s" repeatCount="indefinite"/>
+      </rect><rect x="980" y="392" width="140" height="8" rx="4" fill="#ffffff" opacity="0.10"/>
+      <rect x="980" y="392" width="0" height="8" rx="4" fill="#ffd166">
+        <animate attributeName="width" values="0;0;140;0" keyTimes="0;0.666;0.966;1" dur="12s" repeatCount="indefinite"/>
+      </rect>
+</svg>
