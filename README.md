@@ -1,83 +1,64 @@
-![Intro](./assets/hero.svg?v=4)
-![About](./assets/about-life.svg?v=4)
-![Stack](./assets/stack.svg?v=4)
+# Manthan Rajpurohit
 
-## 🔥 Flagship Systems & Repositories
-| System | Architecture & Focus | Key Stack | Source / Demo |
-|:-------|:---------------------|:----------|:--------------|
-| [TerraPulse AI](https://github.com/manthansingh26/terrapulse-ai) | Real-time environmental telemetry dashboard with scikit-learn AQI forecasting & Leaflet geospatial maps. | React FastAPI scikit-learn PostgreSQL | [⚡️ Live Demo](https://terrapulse-ai.vercel.app) \| [📦 Source](https://github.com/manthansingh26/terrapulse-ai) |
-| [Saathi Swasthya](https://github.com/manthansingh26/murf-livekit-starter) | Multilingual voice health triage assistant built for Murf AI VoiceForBharat challenge with LiveKit Agents & Deepgram. | LiveKit Murf Falcon Gemini 3.5 Python | [📦 Source](https://github.com/manthansingh26/murf-livekit-starter) |
-| [RecoverAI](https://github.com/manthansingh26/RecoverAI) | Event-driven payment recovery platform using LangGraph stateful AI agents & Razorpay webhook pipelines. | FastAPI LangGraph PostgreSQL Docker | [📦 Source](https://github.com/manthansingh26/RecoverAI) |
-| [Urban Furniture ERP](https://github.com/manthansingh26/odoo-hackathon-2026-team-653) | Double-entry accounting system with automatic general ledger balancing (totalDebit === totalCredit) & multi-role RBAC. | React 19 Express PostgreSQL Prisma | [📦 Source](https://github.com/manthansingh26/odoo-hackathon-2026-team-653) |
-| [TransitOps](https://github.com/manthansingh26/TransitOps) | Smart transport operations & fleet management system built at Odoo Hackathon 2026. | FastAPI React PostgreSQL JWT | [📦 Source](https://github.com/manthansingh26/TransitOps) |
-| [Fundraising Intelligence](https://github.com/manthansingh26/fundraising-intelligence-platform) | Donor propensity scoring & ML model explainability using CatBoost and SHAP. | Python CatBoost SHAP Streamlit | [📦 Source](https://github.com/manthansingh26/fundraising-intelligence-platform) |
-| [VendorBridge](https://github.com/manthansingh26/VendorBridge) | Procurement & vendor portal for RFQ management, quotation comparison, and PO generation. | Node.js React PostgreSQL Prisma | [📦 Source](https://github.com/manthansingh26/VendorBridge) |
-| [AI Portfolio OS](https://github.com/manthansingh26/newportfolio) | Futuristic interactive portfolio OS with 3D WebGL wave terrain & AI command terminal. | Next.js 15 React 19 Three.js Tailwind | [⚡️ Live Site](https://manthan-rajpurohit.vercel.app/) \| [📦 Source](https://github.com/manthansingh26/newportfolio) |
+**AI & Full-Stack Builder — AI systems, full-stack products, and privacy-first tools.**
 
-## ⚡️ About Me
+B.E. Computer Engineering (2025–2029) · GIDC Degree Engineering College, Navsari (GTU) · Available for remote AI/ML & Full-Stack internships
 
-Computer Engineering undergraduate specializing in Full-Stack Backend Microservices and Agentic AI Architecture.
+[Portfolio](https://manthan-rajpurohit.online) · [Resume (PDF)](https://drive.google.com/file/d/1eXllcqRqqPaPEWTY1U444NauEmF2YpJv/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/manthan-rajpurohit) · [X](https://x.com/Manthansingh26) · [Email](mailto:manthansingh2601@gmail.com)
 
-💼 ML Engineering Intern at FlyRank AI (*July – Sept 2026*, Credential ID: FR-D11-3EA3F-9FFE6)
-💼 AI Engineering Intern at Navodita Infotech (*June – July 2026*, Credential ID: CNI2606561)
-🏆 Onsite Hackathon Finalist at Odoo India HQ (Gandhinagar), Google Solution Challenge 2026, and ISRO Bharatiya Antariksh Hackathon
-🛠 Engineering event-driven systems using FastAPI, Node.js, PostgreSQL, LangGraph, and Anthropic Model Context Protocol (MCP)
-🌐 Core contributor to open-source software (FitMart OSS merged PR #436 & Adventurers-Guild)
+## About & Experience
 
-## 🛠 Technical Capabilities & Stack
+- **Founder / Builder — BrandGate & Pdfbounty** (Oct 2026 — Present). Building pre-publication AI brand governance and offline-first Android PDF tools end to end.
+- **Ex-ML Intern — FlyRank AI** (Jul–Sep 2026 · Credential ID `FR-D11-3EA3F-9FFE6`). Built Python data-extraction pipelines and scikit-learn search-visibility modules with production REST APIs.
+- **AI Intern — Navodita Infotech** (Jun–Jul 2026 · Credential ID `CNI2606561`). Built AI and computer-vision modules and prototyped backend inference handlers.
+- **Open Source.** 17 selected upstream pull requests (14 merged, 3 open in maintainer review) across AI tooling, testing, and web platforms.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,postgres,express,nodejs,react,nextjs,tailwind,docker,git,linux,postman,vercel" alt="Tech Stack Icons" />
-</p>
+## Flagship Builds
 
-Languages: Python, TypeScript, JavaScript, SQL, C
-AI & Machine Learning: LangGraph (AI Agents), Anthropic Model Context Protocol (MCP), Gemini API, scikit-learn, OpenCV
-Backend & Databases: FastAPI, Node.js, Express.js, REST APIs, PostgreSQL, SQLAlchemy, Prisma ORM, JWT Authentication
-Frontend & UI: React 19, Next.js 15, Tailwind CSS, Vite, Three.js, Framer Motion
-Tools & DevOps: Git, GitHub, Docker, Linux, Postman, Vercel, Render
+| System | What It Does | Core Stack | Links |
+| --- | --- | --- | --- |
+| **BrandGate** | Flags contradictions with brand rules before publication, cites the brand vault, and routes decisions to human approval. Led Team Straw Hat Pirate at Codex 48, ranking **9th of 50 finalist teams** selected from 1,239 teams. | React, TypeScript, FastAPI, Supabase PostgreSQL | [Live](https://brand-gate-rho.vercel.app/) · [Repo](https://github.com/manthansingh26/BrandGate-Codex-48) · [Verify Certificate](https://wecodecoders.in/verify/CX48-9KKXJG) |
+| **RecoverAI** | Analyzes failed Razorpay webhooks and recommends recovery actions under policy rules, with human approval and a simulation mode. | Python, FastAPI, React, TypeScript, PostgreSQL, Docker | [Demo Video](https://youtu.be/G0f-h8nRDVg) · [Repo](https://github.com/manthansingh26/RecoverAI) |
+| **Pdfbounty (Android)** | Scans, edits, converts, merges, and compresses PDFs offline. All processing stays on-device with zero uploads. | Android, on-device processing, offline-first | [Showcase](https://manthan-rajpurohit.online/work/pdf-privacy) |
+| **TerraPulse AI** | Maps real-time WAQI data for 20 Indian cities with geospatial heatmaps and 24-hour scikit-learn AQI forecasts. | React, TypeScript, FastAPI, PostgreSQL, scikit-learn, Leaflet | [Repo](https://github.com/manthansingh26/terrapulse-ai) |
+| **Saathi Swasthya** | Provides voice-first health navigation and urgency triage in Hindi, Gujarati, and English, with consent-gated memory and OpenStreetMap facility lookup. | LiveKit Agents, Deepgram Nova-3, Gemini 3.5 Flash Lite, Murf Falcon TTS, Next.js 15 | [Repo](https://github.com/manthansingh26/murf-livekit-starter) |
+| **PaperFlow** | Six browser-only PDF and image tools with zero file uploads. Paused in Oct 2026. | Client-side web app, Web APIs | [Archived Demo](https://paperflow-puce.vercel.app/) |
+| **Project Graveyard** | Records why projects stalled and computes an explainable Resurrection Score. Built in 24 hours for Baloon National Hackathon 2026 Round 2 as Team Lead of Team Straw Hat Pirate. | React 19, Vite, Tailwind v4, Framer Motion | [Live](https://project-graveyard-woad.vercel.app/) · [Repo](https://github.com/manthansingh26/project-graveyard) |
+| **Hackathon ERP & Fleet Builds** | **[Urban Furniture ERP](https://github.com/manthansingh26/odoo-hackathon-2026-team-653)** (double-entry accounting, Odoo India HQ onsite finalist), **[TransitOps](https://github.com/manthansingh26/TransitOps)** (server-side dispatch rules, Odoo × Indus University), **[VendorBridge](https://github.com/manthansingh26/VendorBridge)** (procurement and GST workflows, Odoo × KSV), and **Pip's Midnight Nursery** (haX.baby 48h). | React 19, Node.js/Express, FastAPI, PostgreSQL, Prisma | [All Hackathons](https://manthan-rajpurohit.online/work/hackathon-builds) |
 
-## 🏆 Hackathons & Engineering Achievements
+## Open Source Contributions
 
-Odoo Hackathon 2026 (Odoo India HQ, Gandhinagar): Onsite Finalist — Built Urban Furniture ERP under 24h constraints.
-Google Solution Challenge 2026 (Hack2Skill): Prototype Finalist — Built AI environmental telemetry forecasting prototype.
-Bharatiya Antariksh Hackathon 2026 (ISRO): Participant & space hackathon idea submission to ISRO.
-DotSlash 9.0 Hackathon (SVNIT Surat): Offline Round Finalist.
-Odoo x KSV Hackathon 26: Kadi Sarva Vishwavidyalaya Onsite Participant.
-Code4Cause Hackathon: Bit Mavericks Coding Club Participant.
+### Merged · 14 Selected Upstream PRs
 
-## 📜 Verified Certifications & Credentials
-- FlyRank AI Machine Learning Internship Certificate (*FR-D11-3EA3F-9FFE6*) — [Verify Issuer ↗️](https://internship.flyrank.ai/verify)
-- Anthropic Certifications: Model Context Protocol (MCP), Subagents, Agent Skills, AI Fluency
-- AWS Educate: Machine Learning Foundations Trained
-- Navodita Infotech: Artificial Intelligence Internship Certificate (*CNI2606561*)
-- IBM SkillsBuild: Getting Started with Artificial Intelligence
+- **Adventurers-Guild** · 13 merged PRs covering authentication, sessions, and database improvements. [#346](https://github.com/LarytheLord/Adventurers-Guild/pull/346), [#347](https://github.com/LarytheLord/Adventurers-Guild/pull/347), [#348](https://github.com/LarytheLord/Adventurers-Guild/pull/348), [#350](https://github.com/LarytheLord/Adventurers-Guild/pull/350) and nine more in this selection · [Fork](https://github.com/manthansingh26/Adventurers-Guild).
+- **FitMart** · Jest unit tests for Zod request schemas covering valid inputs, invalid inputs, and edge cases. [PR #436](https://github.com/parthbuilds-community/FitMart/pull/436).
 
-## 🌐 Open Source Contributions
+### Open · 3 Upstream PRs in Maintainer Review
 
-[FitMart OSS](https://github.com/FitMart) — Merged PR #436 implementing Zod runtime schema validation & Jest unit test suites across core API endpoints.
-[Adventurers-Guild](https://github.com/LarytheLord/Adventurers-Guild) — Core contributor for developer platform security & API validation.
+- **Cognee Connectors** · [GitHub #228](https://github.com/topoteretes/cognee-community/pull/228), [AniList #279](https://github.com/topoteretes/cognee-community/pull/279), and [Chess.com #359](https://github.com/topoteretes/cognee-community/pull/359) · [Fork](https://github.com/manthansingh26/cognee).
 
-![ID](./assets/id-dashboard.svg?v=4)
-![Connect](./assets/connect.svg?v=4)
+### Documentation
 
-<p align="center">
-<a href="https://www.linkedin.com/in/manthan-shravansingh-rajpurohit/">LinkedIn</a> ·
-<a href="https://x.com/Manthansingh26">X</a> ·
-<a href="https://www.instagram.com/itz_manthan026/">Instagram</a> ·
-<a href="https://manthan-rajpurohit.vercel.app/">Portfolio</a> ·
-<a href="mailto:manthansingh2601@gmail.com">Email</a> ·
-<a href="https://github.com/manthansingh26">GitHub</a>
-</p>
+- **Open-Paws** · Workflow demos, examples, and documentation for n8n workflows and AI datasets. [Repo](https://github.com/manthansingh26/documentation).
 
-## 📄 Resume & Contact
+## Working Set
 
-📄 Official Resume (PDF): [Download Resume](https://github.com/manthansingh26/manthansingh26/raw/main/Manthan_Rajpurohit_Resume.pdf)
-🌐 Interactive Portfolio: [manthan-rajpurohit.vercel.app](https://manthan-rajpurohit.vercel.app/)
-💼 LinkedIn: [Manthan Rajpurohit](https://www.linkedin.com/in/manthan-shravansingh-rajpurohit/)
-✉️ Email: [manthansingh2601@gmail.com](mailto:manthansingh2601@gmail.com)
+| Area | Tools |
+| --- | --- |
+| AI & Agents | Python, LangGraph, Model Context Protocol (MCP), scikit-learn, OpenCV, LiveKit Agents |
+| Backend & Data | FastAPI, PostgreSQL, Node.js, Express, Prisma, SQLAlchemy, Docker |
+| Frontend & Web | React, Next.js, TypeScript, Tailwind CSS, Vite |
+| Tooling & Workflow | Git, GitHub, Linux, Vercel |
+
+## Hackathons & Verified Credentials
+
+- **Codex 48 Hackathon** · National Finalist, **9th of 50 finalist teams** selected from 1,239 teams. [Verify CX48-9KKXJG](https://wecodecoders.in/verify/CX48-9KKXJG).
+- **Odoo Hackathon 2026** · Onsite Finalist at Odoo India HQ, Gandhinagar, with Urban Furniture ERP.
+- **Baloon National Hackathon 2026** · Round 2 Shortlisted with Project Graveyard.
+- **DotSlash 9.0 (SVNIT Surat)** · 30-hour offline round participant.
+- **Participating builds and submissions** · Odoo × Indus University, Odoo × KSV, haX.baby 48h, Google Solution Challenge 2026, and an idea submission to the ISRO Bharatiya Antariksh Hackathon.
+- **Credentials** · FlyRank AI (`FR-D11-3EA3F-9FFE6`), Navodita Infotech (`CNI2606561`), Anthropic (Claude Code, MCP, Agent Skills, Subagents, AI Fluency), AWS ML Foundations, IBM SkillsBuild, and Deloitte and Tata through Forage. [Full Archive (28 Certificates)](https://manthan-rajpurohit.online/#certificates).
 
 ---
 
-<p align="center">
-<i>"Building high-performance systems and intelligent agents, one commit at a time."</i>
-</p>
+[Explore the portfolio](https://manthan-rajpurohit.online) · [Email manthansingh2601@gmail.com](mailto:manthansingh2601@gmail.com) · [View the resume (PDF)](https://drive.google.com/file/d/1eXllcqRqqPaPEWTY1U444NauEmF2YpJv/view?usp=sharing)
